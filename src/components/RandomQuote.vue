@@ -168,7 +168,7 @@ const telegramQuoteUrl = () => {
 
 const facebookQuoteUrl = () => {
   const quoteText = `"${quote.value}" - ${author.value}`;
-  const shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://v1-lac.vercel.app/?quote=${quoteText}`)}`;
+  const shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://random-quote-vue-three.vercel.app/?quote=${quoteText}`)}`;
 
   window.open(shareUrl, '_blank', 'noopener,noreferrer,width=600,height=300');
 };

@@ -9,7 +9,7 @@ This project is a simple, interactive Random Quote Machine created with Vue.js a
 - **Dynamic Styling:** Applies a random color scheme for each new quote.
 - **Error Handling:** Displays an error message if the quote fetch fails.
 
-This application is hosted on Vercel. You can view it live here  [DEMO](). 
+This application is hosted on Vercel. You can view it live here  [DEMO](https://random-quote-vue-three.vercel.app/). 
 
 ## Installation
 ### Clone the repository:
